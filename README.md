@@ -1,4 +1,4 @@
-# Product Activation Failed
+# Predicting cancer
 # Introduction
 A set of data that can predict whether a person has cancer or not. The data set contains 33 columns of 570 lines
 # Data location
